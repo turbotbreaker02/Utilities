@@ -24,6 +24,8 @@ public class URLEncodeStringMaker {
 		
 		//percent encodin
 		//encodeString = encodeString.replace("*", "%2A").replace("-", "%2D").replace(".", "%2E");
+
+		//コメント追加
 		System.out.println("encoded::" + encodeString);
 	}
 }
